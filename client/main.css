@@ -1,0 +1,13 @@
+/* CSS declarations go here */
+
+.box__dragndrop,
+.box__uploading,
+.box__success,
+.box__error {
+  display: none;
+}
+.content {
+  margin-top: 100px;
+}
+#holder { border: 10px dashed #ccc; width: 300px; min-height: 300px; margin: 20px auto;}
+#holder.hover { border: 10px dashed #0c0; }
